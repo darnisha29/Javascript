@@ -1,0 +1,1 @@
+window.LibraryName = window.libraryName || " Lib 2";
